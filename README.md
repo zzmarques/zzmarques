@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá!! 👋
 
-<!--
-**zzmarques/zzmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Walace Marques, natural de Minas Gerais, e meu caminho no desenvolvimento web começou ao descobrir vídeos sobre o assunto. O interesse logo virou paixão, e desde então venho mergulhando cada vez mais fundo nesse universo. Adoro criar soluções digitais e estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios que me façam crescer como desenvolvedor.
 
-Here are some ideas to get you started:
+# 🚀 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou me especializando em front-end, mas meu objetivo é me tornar um Desenvolvedor FullStack. Estou investindo tempo em aprender e praticar nessa área, e, assim que me sentir mais à vontade, pretendo expandir meus conhecimentos para o back-end. Quero me tornar um profissional versátil no desenvolvimento!
+
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walacemarques/) 
+
+# 💻 Tech 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
