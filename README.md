@@ -14,5 +14,6 @@ Atualmente, estou me especializando em front-end, mas meu objetivo é me tornar 
 
 #
 <div> 
-  <img src="https://i.imgur.com/GtHExHJ.gif" alt="CL Thumb" border="0" width="70%"> 
+  <img src="https://i.imgur.com/i7SCZiz.gif" alt="CL Thumb" border="0" width="70%"> 
+  
 </div>
