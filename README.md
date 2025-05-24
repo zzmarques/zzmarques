@@ -16,8 +16,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzmarques&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 500px;"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=zzmarques&theme=radical&hide_border=false" style="width: 500px;"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zzmarques&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 100%;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=zzmarques&theme=radical&hide_border=false" style="width: 100%;"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzmarques&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
