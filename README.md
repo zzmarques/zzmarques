@@ -1,4 +1,6 @@
 
+![Banner WM](https://github.com/user-attachments/assets/cb6d7419-0810-4394-91d4-0ec14ce135a2)
+
 # 💻 Tech Stack:
 
 <div align="center">
@@ -14,9 +16,9 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzmarques&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zzmarques&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="width: 50%;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=zzmarques&theme=radical&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzmarques&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzmarques&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 50%;"/>
 </div>
 
 ---
