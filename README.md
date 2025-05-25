@@ -2,7 +2,7 @@
 ![Banner WM](https://github.com/user-attachments/assets/cb6d7419-0810-4394-91d4-0ec14ce135a2)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://walacemarqs.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walacemarques/)
 
 # 💻 Tech Stack:
 
